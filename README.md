@@ -7,7 +7,13 @@ HTML also Known as HyperText Markup Language, is the essential code that structu
 ## What are the 3 main parts of an HTML element?
 The 3 main parts of an HTML element is
 - < opening-Tag >
-- Content
+- Content < p > type here what ever you want</ p >
 - </Closing Tag</>
-
+  ## What is it called when you give an element extra information?
+  > Attributes:  is  called when ever you give an element extra information to an HTML element,like:
   
+  > <"img href="imag-url-goes-here" < /img>
+  ## Wireframe
+  A wireframe is a basic visual layout sketch used in design to plan the structure and arrangement of elements in a webpage or app.
+  ## Basic semantic HTML elements include
+ > < header >, < nav >, < main >, < section >, < aside >, and < footer >, 
